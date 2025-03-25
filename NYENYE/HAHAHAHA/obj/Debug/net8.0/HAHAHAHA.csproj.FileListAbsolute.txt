@@ -1,0 +1,14 @@
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\bin\Debug\net8.0\HAHAHAHA.exe
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\bin\Debug\net8.0\HAHAHAHA.deps.json
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\bin\Debug\net8.0\HAHAHAHA.runtimeconfig.json
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\bin\Debug\net8.0\HAHAHAHA.dll
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\bin\Debug\net8.0\HAHAHAHA.pdb
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\HAHAHAHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\HAHAHAHA.AssemblyInfoInputs.cache
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\HAHAHAHA.AssemblyInfo.cs
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\HAHAHAHA.csproj.CoreCompileInputs.cache
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\HAHAHAHA.dll
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\refint\HAHAHAHA.dll
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\HAHAHAHA.pdb
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\HAHAHAHA.genruntimeconfig.cache
+C:\Users\shaca\OneDrive\Desktop\NYENYE\HAHAHAHA\obj\Debug\net8.0\ref\HAHAHAHA.dll

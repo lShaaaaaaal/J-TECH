@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HAHAHAHA/1.0.0": {
+        "runtime": {
+          "HAHAHAHA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HAHAHAHA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
